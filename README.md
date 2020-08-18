@@ -11,7 +11,7 @@
 > * Main screen to show current weather data.<br>
 > * City screen to search city weather data.<br>
 > * App routing<br>
-> * Used https://openweathermap.org/api for weather data.<br>
+> * Used https://openweathermap.org for weather data.<br>
 
 ##### Main Screen
 <img src="https://user-images.githubusercontent.com/50264214/90502000-a76be000-e166-11ea-8fb5-23e16085d75d.png" alt="drawing" width="250" height="470"/>
