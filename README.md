@@ -14,9 +14,9 @@
 > * Used https://openweathermap.org/api for weather data.<br>
 
 ##### Main Screen
-![MainPage](https://user-images.githubusercontent.com/50264214/90502000-a76be000-e166-11ea-8fb5-23e16085d75d.png)
+![MainPage](https://user-images.githubusercontent.com/50264214/90502000-a76be000-e166-11ea-8fb5-23e16085d75d.png =200x300)
 
 ##### City Screen
-![CityPage](https://user-images.githubusercontent.com/50264214/90502304-06c9f000-e167-11ea-900c-c6405945296c.png)
+![CityPage](https://user-images.githubusercontent.com/50264214/90502304-06c9f000-e167-11ea-900c-c6405945296c.png =200x300)
 
 
