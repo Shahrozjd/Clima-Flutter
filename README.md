@@ -9,6 +9,7 @@
 > * Loading screen with animation.<br>
 > * Fetching data Asynchronously.<br>
 > * Main screen to show current weather data.<br>
-> * City screen to search that of searched city.<br>
+> * City screen to search city weather data.<br>
 > * App routing<br>
 > * Used https://openweathermap.org/api for weather data.<br>
+
